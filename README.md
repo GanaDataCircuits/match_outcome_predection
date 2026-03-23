@@ -5,7 +5,7 @@
 This project predicts the winning team in a match round using machine learning.
 
 ## Problem Statement
-To predict match outcomes based on gameplay data and statistics.
+To predict match outcomes based on gameplay data and statistics.(based on the previous rounds record we have to build a best predictive model predicting which team is gonna win a particular round)
 
 ## Approach
 - Data cleaning and preprocessing
